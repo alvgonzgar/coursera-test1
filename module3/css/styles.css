@@ -1,0 +1,16 @@
+#d1, #d2, #d3{
+	background-color: #BDB5B3;
+	padding: .5em;
+}
+#nav {
+	background-color: #BDB5B3;
+}
+#p1, #p2, #p3{
+	background-color: #BDB5B3;
+	padding-right: 1em;
+	padding-left: 1em;
+	padding-bottom: : 1em;
+}
+ul, li{
+	background-color: #555555;
+}
